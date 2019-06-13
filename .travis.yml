@@ -1,2 +1,2 @@
 language: java
-script: cd rubberband
+script: cd rubberband; mvn test

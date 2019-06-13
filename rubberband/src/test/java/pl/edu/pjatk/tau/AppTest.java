@@ -8,7 +8,7 @@ import junit.framework.TestSuite;
  * Unit test for simple App.
  */
 @RunWith(JUnit4.class)
-public class AddTest {
+public class AppTest {
     Add a;
 
     @Before
